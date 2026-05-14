@@ -1,2 +1,3 @@
-"Hello Duniya!!!
-bhad me jao apna ganda muh le kar!"
+Hello Duniya!!! bhad me jao apna ganda muh le kar!
+
+hello world
